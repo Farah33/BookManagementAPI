@@ -1,10 +1,4 @@
-Perfect, Khadija! 🎉 Since you’ve done everything and just want the **content for your `README.md` file**, here is the **final version** — clean, simple, and ready to paste:
 
----
-
-### 📋 Copy everything below into your `README.md` file:
-
-````markdown
 # 📚 Book Management API (Final Project)
 
 This project is a simple Book Management API built using **Python (FastAPI)** and **MySQL**. It allows you to create, view, update, and delete books from a database using RESTful endpoints.
